@@ -21,7 +21,7 @@ Welcome to the **Smooth Scrolling Website**! This project showcases smooth anima
 
 ## 🖥️ Live Demo
 
-> [Link to the Live Demo](#) (Add the link once it's live)
+> https://design-studio1.netlify.app(Add the link once it's live)
 
 ## 📁 Project Setup
 
